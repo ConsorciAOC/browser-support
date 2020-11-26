@@ -1,8 +1,8 @@
 <h2>A quins navegadors donem suport</h2>
 
-Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funcionen amb els següents navegadors:
+Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funcionen amb els següents navegadors (:
  
- - Chrome [versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history)
+ - ![Alt text](img/browser/chrome.png?raw=true "Title") Chrome [versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history)
  - Firefox [versions](https://en.wikipedia.org/wiki/Firefox_version_history#Release_history)
  - Edge [version](https://en.wikipedia.org/wiki/Microsoft_Edge#Release_history) - Només sobre Windows
  - Safari [version](https://en.wikipedia.org/wiki/Safari_version_history) - Només sobre MAC OSX
