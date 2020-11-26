@@ -1,10 +1,13 @@
-<h2>Que necessito per fer funcionar el <i>Signador</i>?</h2>
+<h2>A quins navegadors donem suport</h2>
 
-El signador és una aplicació web que funciona amb els següents navegadors; en el cas dels navegadors que fan _rapid release_ suportem fins a **tres versions anteriors a l'actual**:
+Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funcionen amb els següents navegadors:
  
  - Chrome [versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history)
  - Firefox [versions](https://en.wikipedia.org/wiki/Firefox_version_history#Release_history)
  - Edge [version](https://en.wikipedia.org/wiki/Microsoft_Edge#Release_history) - Només sobre Windows
+ - Safari [version](https://en.wikipedia.org/wiki/Safari_version_history) - Només sobre MAC OSX
+ 
+Per a aquests casos donem suport fins a 3 versions anteriors a l'actual.
  
 Els altres navegadors que suportem 
  
