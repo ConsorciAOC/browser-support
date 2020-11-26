@@ -1,3 +1,5 @@
+TODO: WORK IN PROGRESS
+
 <h2>A quins navegadors donem suport</h2>
 
 Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funcionen amb els següents navegadors (:
