@@ -4,15 +4,13 @@ TODO: WORK IN PROGRESS
 
 Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funcionen amb els següents navegadors en un entorn d'*Escriptori*, per a aquests casos *donem suport fins a 3 versions anteriors a l'actual*:
 
-<p>
- <img align="left" width="48" height="48" src="img/browser/chrome_48x48.png?raw=true"></img>
- Chrome <a href="https://en.wikipedia.org/wiki/Google_Chrome_version_history">versions</a>
-</p>
+<div style="width:100%;">
+<img align="left" width="48" height="48" src="img/browser/chrome_48x48.png?raw=true">Chrome <a href="https://en.wikipedia.org/wiki/Google_Chrome_version_history">versions</a>
+</div>
 
-<p>
- <img align="left" width="48" height="48" src="img/browser/firefox_48x48.png?raw=true"></img>
- Firefox <a href="https://en.wikipedia.org/wiki/Firefox_version_history#Release_history">versions</a>
-</p>
+<img align="left" width="48" height="48" src="img/browser/firefox_48x48.png?raw=true"></img>
+Firefox <a href="https://en.wikipedia.org/wiki/Firefox_version_history#Release_history">versions</a>
+
 
 <img align="left" width="100" height="100" src="img/browser/chrome.png?raw=true">
 
