@@ -25,7 +25,7 @@ Els altres navegadors que suportem:
 
 <h3>Navegadors mòbils</h3>
 
-No tots els serveis del Consorci AOC estan pensats per a ser usats a través d'un dispositiu Mobil, però els serveis que si ho estan, donen suport fins a 3 versions anteriors a l'actual per als següents navegadors:
+No tots els serveis del Consorci AOC estan pensats per a ser usats a través d'un dispositiu mòbil, però els serveis que si ho estan, donen suport fins a 3 versions anteriors a l'actual per als següents navegadors:
 
 |![Chrome](img/browser/chrome_48x48.png?raw=true "Chrome")| Chrome [versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history) - Sobre Android |
 |-------------|-------------|
