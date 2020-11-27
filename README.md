@@ -49,3 +49,6 @@ Des dels següents enllaços pots baixar-te les ultimes versions estables dels n
   - [Safari](https://www.apple.com/safari/)
   - [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
   - [Internet explorer](https://windows.microsoft.com/en-us/internet-explorer/download-ie)
+  
+  
+<sub>Logos de [alrra/browser-logos](https://github.com/alrra/browser-logos)</sub>
