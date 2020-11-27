@@ -7,11 +7,14 @@ Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funci
 |![Chrome](img/browser/chrome_48x48.png?raw=true "Chrome")| Chrome [versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history) |
 |-------------|-------------|
 
+
 |![Firefox](img/browser/firefox_48x48.png?raw=true "Firefox")| Firefox [versions](https://en.wikipedia.org/wiki/Firefox_version_history#Release_history) |
 |-------------|-------------|
 
+
 |![Edge](img/browser/edge_48x48.png?raw=true "Edge")| Edge [versions](https://en.wikipedia.org/wiki/Microsoft_Edge#Release_history) - Només sobre Windows |
 |-------------|-------------|
+
 
 |![Safari](img/browser/safari_48x48.png?raw=true "Safari")| Safari [versions](https://en.wikipedia.org/wiki/Safari_version_history) - Només sobre MAC OSX|
 |-------------|-------------|
@@ -29,6 +32,7 @@ No tots els serveis del Consorci AOC estan pensats per a ser usats a través d'u
 
 |![Chrome](img/browser/chrome_48x48.png?raw=true "Chrome")| Chrome [versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history) - Sobre Android |
 |-------------|-------------|
+
 
 |![Safari](img/browser/safari_48x48.png?raw=true "Safari")| Safari [versions](https://en.wikipedia.org/wiki/Safari_version_history) - Sobre iOS|
 |-------------|-------------|
