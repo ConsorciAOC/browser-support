@@ -1,24 +1,42 @@
 TODO: WORK IN PROGRESS
 
-<h2>A quins navegadors donem suport</h2>
+<h2>A quins navegadors donem suport?</h2>
 
-Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funcionen amb els següents navegadors (:
+Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funcionen amb els següents navegadors en un entorn d'*Escriptori*, per a aquests casos *donem suport fins a 3 versions anteriors a l'actual*:
+
+<div>
+ <img align="left" width="100" height="100" src="img/browser/chrome.png?raw=true">
+ Chrome <a href="https://en.wikipedia.org/wiki/Google_Chrome_version_history">versions</a>
+</div>
+
+
+
+<img align="left" width="100" height="100" src="img/browser/chrome.png?raw=true">
+
+Firefox [versions](https://en.wikipedia.org/wiki/Firefox_version_history#Release_history)
+
+#
+
+<img align="left" width="100" height="100" src="img/browser/chrome.png?raw=true">
+
+Edge [version](https://en.wikipedia.org/wiki/Microsoft_Edge#Release_history) - Només sobre Windows
+
+
+<img align="left" width="100" height="100" src="img/browser/chrome.png?raw=true"></img>
+
+Safari [version](https://en.wikipedia.org/wiki/Safari_version_history) - Només sobre MAC OSX
+
  
- - ![Alt text](img/browser/chrome.png?raw=true "Title") Chrome [versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history)
- - Firefox [versions](https://en.wikipedia.org/wiki/Firefox_version_history#Release_history)
- - Edge [version](https://en.wikipedia.org/wiki/Microsoft_Edge#Release_history) - Només sobre Windows
- - Safari [version](https://en.wikipedia.org/wiki/Safari_version_history) - Només sobre MAC OSX
+Els altres navegadors que suportem:
  
-Per a aquests casos donem suport fins a 3 versions anteriors a l'actual.
+- Internet explorer [versio 11](https://en.wikipedia.org/wiki/Internet_Explorer_version_history#Release_history_for_desktop_Windows_OS_version) - Només sobre Windows i sobre l'última actualització del mateix.
+
+:warning: Si disposes d'un navegador diferent dels especificats anteriorment (e.g. *Opera*, o versions antigues dels especificats) es possible que l'aplicació funcioni correctament o potser pateixes alguna petita degradació, però en cas de necessitar del nostre suport només serà disponible per a les versions/entorns específicats.
  
-Els altres navegadors que suportem 
- 
- - Safari [versió 10.0 i superiors](https://en.wikipedia.org/wiki/Safari_version_history) - Només sobre MAC OS X
- - Internet explorer [versio 10 i superiors](https://en.wikipedia.org/wiki/Internet_Explorer_version_history#Release_history_for_desktop_Windows_OS_version) - Només sobre Windows.
- 
+
 Donat que no disposem d'aplicació mobil per tal d'accedir al magatzem de certificats i poder realitzar la signatura, tot i que la aplicació web pot ser accedida amb navegadors mobils no donem suport als mateixos ja que no es pot finalitzar l'operació utilitzant un dispositiu mobil.
 
-**NOTA:** Si disposes d'un navegador diferent dels especificats anteriorment (e.g. *Opera*, o versions antigues dels especificats) es possible que l'aplicació funcioni correctament, però en cas de necessitar del nostre suport només serà disponible per a les versions/entorns específicats.
+
 
 <h3>Perquè només aquestes versions?</h3>
 
