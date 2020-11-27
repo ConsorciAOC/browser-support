@@ -1,5 +1,3 @@
-TODO: WORK IN PROGRESS
-
 <h2>A quins navegadors donem suport?</h2>
 
 <h3>Navegadors d'escriptori</h3>
@@ -31,6 +29,7 @@ No tots els serveis del Consorci AOC estan pensats per a ser usats a través d'u
 
 |![Chrome](img/browser/chrome_48x48.png?raw=true "Chrome")| Chrome [versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history) - Sobre Android |
 |-------------|-------------|
+
 |![Safari](img/browser/safari_48x48.png?raw=true "Safari")| Safari [versions](https://en.wikipedia.org/wiki/Safari_version_history) - Sobre iOS|
 |-------------|-------------|
 
