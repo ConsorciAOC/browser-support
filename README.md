@@ -48,4 +48,4 @@ Des dels següents enllaços pots baixar-te les ultimes versions estables dels n
   - [Chrome](https://www.google.cat/chrome/browser/desktop/index.html)
   - [Safari](https://www.apple.com/safari/)
   - [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
-  - [Internet explorer] (https://windows.microsoft.com/en-us/internet-explorer/download-ie)
+  - [Internet explorer](https://windows.microsoft.com/en-us/internet-explorer/download-ie)
