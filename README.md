@@ -19,11 +19,6 @@ Les aplicacions web que ofereix als ciutadans el Consorci AOC es validen i funci
 |![Safari](img/browser/safari_48x48.png?raw=true "Safari")| Safari [versions](https://en.wikipedia.org/wiki/Safari_version_history) - Només sobre MAC OSX|
 |-------------|-------------|
  
-Els altres navegadors que suportem:
- 
-|![Internet explorer](img/browser/edge_48x48.png?raw=true "Internet explorer") | Internet explorer [versio 11](https://en.wikipedia.org/wiki/Internet_Explorer_version_history#Release_history_for_desktop_Windows_OS_version) - Només sobre Windows i sobre l'última actualització del mateix |
-|-|-|
-
 :warning: Si disposes d'un navegador diferent dels especificats anteriorment (e.g. *Opera*, o versions antigues dels especificats) es possible que l'aplicació funcioni correctament o potser pateixes alguna petita degradació, però en cas de necessitar del nostre suport només serà disponible per a les versions/entorns especificats.
 
 <h3>Navegadors mòbils</h3>
@@ -46,13 +41,11 @@ Revisant l'ús que fan els usuaris dels nostres serveis, veiem que més del 90% 
  - El teu PC serà més segur i tindrà menys riscos de patir un atac (no et convenç, revisa [les vulnerabilitats del teu navegador](https://www.ssllabs.com/ssltest/viewMyClient.html))
  - Gaudiràs d'un millor experiència d'usuari i gaudiràs de les noves característiques de la web.
  
-Des dels següents enllaços pots baixar-te les ultimes versions estables dels navegadors suportats per a diferents sistemes operatius:
+Des dels següents enllaços pots descarregar-te les ultimes versions estables dels navegadors suportats per a diferents sistemes operatius:
  
   - [Firefox](https://www.mozilla.org/ca/firefox/new/)
   - [Chrome](https://www.google.cat/chrome/browser/desktop/index.html)
   - [Safari](https://www.apple.com/safari/)
   - [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
-  - [Internet explorer](https://windows.microsoft.com/en-us/internet-explorer/download-ie)
-  
-  
+   
 <sub>Logos de [alrra/browser-logos](https://github.com/alrra/browser-logos)</sub>
